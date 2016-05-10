@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1458984734 source:c:\users\Саша\c\tests\opencv\main.c
-	<cv.h>
-	<highgui.h>
-	<stdlib.h>
-	<stdio.h>
-
